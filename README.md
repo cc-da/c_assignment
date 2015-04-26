@@ -1,6 +1,6 @@
 # Tidy data course project
 
-Script to merge and summarize the Samsung Galaxy Accelerometer data. Assumes the data files are in a folder "UCI HAR Dataset" in the working directory.
+Script to merge and summarize the Samsung Galaxy Accelerometer data. Assumes the data files are in a folder "UCI HAR Dataset" in the working directory. Requires the "plyr" library.
 
 In summary, the script:
 
